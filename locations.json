@@ -1,13 +1,13 @@
 [
     {
         "parent": "",
-        "key": "dhaka",
-        "label": "Dhaka"
+        "key": "barishal",
+        "label": "Barishal"
     },
     {
         "parent": "",
-        "key": "dhaka_division",
-        "label": "Dhaka Division"
+        "key": "barishal_division",
+        "label": "Barishal Division"
     },
     {
         "parent": "",
@@ -21,6 +21,16 @@
     },
     {
         "parent": "",
+        "key": "dhaka",
+        "label": "Dhaka"
+    },
+    {
+        "parent": "",
+        "key": "dhaka_division",
+        "label": "Dhaka Division"
+    },
+    {
+        "parent": "",
         "key": "khulna",
         "label": "Khulna"
     },
@@ -31,13 +41,13 @@
     },
     {
         "parent": "",
-        "key": "sylhet",
-        "label": "Sylhet"
+        "key": "mymensingh",
+        "label": "Mymensingh"
     },
     {
         "parent": "",
-        "key": "sylhet_division",
-        "label": "Sylhet Division"
+        "key": "mymensingh_division",
+        "label": "Mymensingh Division"
     },
     {
         "parent": "",
@@ -61,248 +71,393 @@
     },
     {
         "parent": "",
-        "key": "barishal",
-        "label": "Barishal"
+        "key": "sylhet",
+        "label": "Sylhet"
     },
     {
         "parent": "",
-        "key": "barishal_division",
-        "label": "Barishal Division"
+        "key": "sylhet_division",
+        "label": "Sylhet Division"
     },
     {
-        "parent": "",
-        "key": "mymensingh",
-        "label": "Mymensingh"
+        "parent": "barishal",
+        "key": "barishal_amtala",
+        "label": "Amtala"
     },
     {
-        "parent": "",
-        "key": "mymensingh_division",
-        "label": "Mymensingh Division"
+        "parent": "barishal",
+        "key": "barishal_bakerganj",
+        "label": "Bakerganj"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_mirpur",
-        "label": "Mirpur"
+        "parent": "barishal",
+        "key": "barishal_banglabazar",
+        "label": "Banglabazar"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_uttara",
-        "label": "Uttara"
+        "parent": "barishal",
+        "key": "barishal_beltola_feri_ghat",
+        "label": "Beltola Feri Ghat"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_mohammadpur",
-        "label": "Mohammadpur"
+        "parent": "barishal",
+        "key": "barishal_chand_mari",
+        "label": "Chand Mari"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_savar",
-        "label": "Savar"
+        "parent": "barishal",
+        "key": "barishal_chawk_bazar",
+        "label": "Chawk Bazar"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_jatrabari",
-        "label": "Jatrabari"
+        "parent": "barishal",
+        "key": "barishal_city_gate_barishal_gorierpar",
+        "label": "City Gate Barishal (Gorierpar)"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_dhanmondi",
-        "label": "Dhanmondi"
+        "parent": "barishal",
+        "key": "barishal_gournadi",
+        "label": "Gournadi"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_basundhara",
-        "label": "Basundhara"
+        "parent": "barishal",
+        "key": "barishal_kalizira",
+        "label": "Kalizira"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_badda",
-        "label": "Badda"
+        "parent": "barishal",
+        "key": "barishal_kashipur_bazar",
+        "label": "Kashipur Bazar"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_gulshan",
-        "label": "Gulshan"
+        "parent": "barishal",
+        "key": "barishal_launch_ghat",
+        "label": "Launch Ghat"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_elephant_road",
-        "label": "Elephant Road"
+        "parent": "barishal",
+        "key": "barishal_mehendiganj",
+        "label": "Mehendiganj"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_baridhara",
-        "label": "Baridhara"
+        "parent": "barishal",
+        "key": "barishal_nattullabad",
+        "label": "Nattullabad"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_khilgaon",
-        "label": "Khilgaon"
+        "parent": "barishal",
+        "key": "barishal_natun_bazar",
+        "label": "Natun Bazar"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_rampura",
-        "label": "Rampura"
+        "parent": "barishal",
+        "key": "barishal_nazirmoholla",
+        "label": "Nazirmoholla"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_tongi",
-        "label": "Tongi"
+        "parent": "barishal",
+        "key": "barishal_nobogram_road",
+        "label": "Nobogram Road"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_keraniganj",
-        "label": "Keraniganj"
+        "parent": "barishal",
+        "key": "barishal_puran_bazar",
+        "label": "Puran Bazar"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_banani",
-        "label": "Banani"
+        "parent": "barishal",
+        "key": "barishal_rupatali",
+        "label": "Rupatali"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_motijheel",
-        "label": "Motijheel"
+        "parent": "barishal",
+        "key": "barishal_sadar_road",
+        "label": "Sadar Road"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_basabo",
-        "label": "Basabo"
+        "parent": "barishal",
+        "key": "barishal_uttar_alekanda",
+        "label": "Uttar Alekanda"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_tejgaon",
-        "label": "Tejgaon"
+        "parent": "barishal_division",
+        "key": "barishal_division_barguna",
+        "label": "Barguna"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_demra",
-        "label": "Demra"
+        "parent": "barishal_division",
+        "key": "barishal_division_bhola",
+        "label": "Bhola"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_lalbag",
-        "label": "Lalbag"
+        "parent": "barishal_division",
+        "key": "barishal_division_jhalokati",
+        "label": "Jhalokati"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_banasree",
-        "label": "Banasree"
+        "parent": "barishal_division",
+        "key": "barishal_division_patuakhali",
+        "label": "Patuakhali"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_purbachal",
-        "label": "Purbachal"
+        "parent": "barishal_division",
+        "key": "barishal_division_pirojpur",
+        "label": "Pirojpur"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_kamrangirchar",
-        "label": "Kamrangirchar"
+        "parent": "chattogram",
+        "key": "chattogram_agrabad",
+        "label": "Agrabad"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_khilkhet",
-        "label": "Khilkhet"
+        "parent": "chattogram",
+        "key": "chattogram_alankar",
+        "label": "Alankar"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_sutrapur",
-        "label": "Sutrapur"
+        "parent": "chattogram",
+        "key": "chattogram_anderkilla",
+        "label": "Anderkilla"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_banglamotor",
-        "label": "Banglamotor"
+        "parent": "chattogram",
+        "key": "chattogram_anwara",
+        "label": "Anwara"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_farmgate",
-        "label": "Farmgate"
+        "parent": "chattogram",
+        "key": "chattogram_baizid",
+        "label": "Baizid"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_malibag",
-        "label": "Malibag"
+        "parent": "chattogram",
+        "key": "chattogram_bakoliya",
+        "label": "Bakoliya"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_mogbazar",
-        "label": "Mogbazar"
+        "parent": "chattogram",
+        "key": "chattogram_bandar",
+        "label": "Bandar"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_wari",
-        "label": "Wari"
+        "parent": "chattogram",
+        "key": "chattogram_banskhali",
+        "label": "Banskhali"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_bangshal",
-        "label": "Bangshal"
+        "parent": "chattogram",
+        "key": "chattogram_boalkhali",
+        "label": "Boalkhali"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_cantonment",
-        "label": "Cantonment"
+        "parent": "chattogram",
+        "key": "chattogram_cda_avenue",
+        "label": "CDA Avenue"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_new_market",
+        "parent": "chattogram",
+        "key": "chattogram_chandanaish",
+        "label": "Chandanaish"
+    },
+    {
+        "parent": "chattogram",
+        "key": "chattogram_chandgaon",
+        "label": "Chandgaon"
+    },
+    {
+        "parent": "chattogram",
+        "key": "chattogram_chawkbazar",
+        "label": "Chawkbazar"
+    },
+    {
+        "parent": "chattogram",
+        "key": "chattogram_cornelhat",
+        "label": "Cornelhat"
+    },
+    {
+        "parent": "chattogram",
+        "key": "chattogram_double_mooring",
+        "label": "Double Mooring"
+    },
+    {
+        "parent": "chattogram",
+        "key": "chattogram_fatikchari",
+        "label": "Fatikchari"
+    },
+    {
+        "parent": "chattogram",
+        "key": "chattogram_halishahar",
+        "label": "Halishahar"
+    },
+    {
+        "parent": "chattogram",
+        "key": "chattogram_hathazari",
+        "label": "Hathazari"
+    },
+    {
+        "parent": "chattogram",
+        "key": "chattogram_jamalkhan",
+        "label": "Jamalkhan"
+    },
+    {
+        "parent": "chattogram",
+        "key": "chattogram_kajir_dewry",
+        "label": "Kajir Dewry"
+    },
+    {
+        "parent": "chattogram",
+        "key": "chattogram_karnafuly",
+        "label": "Karnafuly"
+    },
+    {
+        "parent": "chattogram",
+        "key": "chattogram_khulshi",
+        "label": "Khulshi"
+    },
+    {
+        "parent": "chattogram",
+        "key": "chattogram_kotwali",
+        "label": "Kotwali"
+    },
+    {
+        "parent": "chattogram",
+        "key": "chattogram_lalkhan_bazar",
+        "label": "Lalkhan Bazar"
+    },
+    {
+        "parent": "chattogram",
+        "key": "chattogram_lohagara",
+        "label": "Lohagara"
+    },
+    {
+        "parent": "chattogram",
+        "key": "chattogram_mirsharai",
+        "label": "Mirsharai"
+    },
+    {
+        "parent": "chattogram",
+        "key": "chattogram_muradpur",
+        "label": "Muradpur"
+    },
+    {
+        "parent": "chattogram",
+        "key": "chattogram_nasirabad",
+        "label": "Nasirabad"
+    },
+    {
+        "parent": "chattogram",
+        "key": "chattogram_new_market",
         "label": "New Market"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_mohakhali",
-        "label": "Mohakhali"
+        "parent": "chattogram",
+        "key": "chattogram_oxygen",
+        "label": "Oxygen"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_paltan",
-        "label": "Paltan"
+        "parent": "chattogram",
+        "key": "chattogram_pahartali",
+        "label": "Pahartali"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_aftab_nagar",
-        "label": "Aftab nagar"
+        "parent": "chattogram",
+        "key": "chattogram_panchlaish",
+        "label": "Panchlaish"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_shyamoli",
-        "label": "Shyamoli"
+        "parent": "chattogram",
+        "key": "chattogram_patenga",
+        "label": "Patenga"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_hazaribagh",
-        "label": "Hazaribagh"
+        "parent": "chattogram",
+        "key": "chattogram_patiya",
+        "label": "Patiya"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_chaukbazar",
-        "label": "Chaukbazar"
+        "parent": "chattogram",
+        "key": "chattogram_rangunia",
+        "label": "Rangunia"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_ramna",
-        "label": "Ramna"
+        "parent": "chattogram",
+        "key": "chattogram_raozan",
+        "label": "Raozan"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_kafrul",
-        "label": "Kafrul"
+        "parent": "chattogram",
+        "key": "chattogram_sandwip",
+        "label": "Sandwip"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_ecb_chattar",
-        "label": "ECB Chattar"
+        "parent": "chattogram",
+        "key": "chattogram_satkania",
+        "label": "Satkania"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_dhamrai",
-        "label": "Dhamrai"
+        "parent": "chattogram",
+        "key": "chattogram_sholashahar",
+        "label": "Sholashahar"
     },
     {
-        "parent": "dhaka",
-        "key": "dhaka_nawabganj",
-        "label": "Nawabganj"
+        "parent": "chattogram_division",
+        "key": "chattogram_division_bandarban",
+        "label": "Bandarban"
+    },
+    {
+        "parent": "chattogram_division",
+        "key": "chattogram_division_brahmanbaria",
+        "label": "Brahmanbaria"
+    },
+    {
+        "parent": "chattogram_division",
+        "key": "chattogram_division_chakaria",
+        "label": "Chakaria"
+    },
+    {
+        "parent": "chattogram_division",
+        "key": "chattogram_division_chandpur",
+        "label": "Chandpur"
+    },
+    {
+        "parent": "chattogram_division",
+        "key": "chattogram_division_coxs_bazar",
+        "label": "Cox's Bazar"
+    },
+    {
+        "parent": "chattogram_division",
+        "key": "chattogram_division_cumilla",
+        "label": "Cumilla"
+    },
+    {
+        "parent": "chattogram_division",
+        "key": "chattogram_division_feni",
+        "label": "Feni"
+    },
+    {
+        "parent": "chattogram_division",
+        "key": "chattogram_division_khagrachhari",
+        "label": "Khagrachhari"
+    },
+    {
+        "parent": "chattogram_division",
+        "key": "chattogram_division_lakshmipur",
+        "label": "Lakshmipur"
+    },
+    {
+        "parent": "chattogram_division",
+        "key": "chattogram_division_noakhali",
+        "label": "Noakhali"
+    },
+    {
+        "parent": "chattogram_division",
+        "key": "chattogram_division_rangamati",
+        "label": "Rangamati"
+    },
+    {
+        "parent": "chattogram_division",
+        "key": "chattogram_division_sitakundo",
+        "label": "Sitakundo"
     },
     {
         "parent": "dhaka",
@@ -311,23 +466,93 @@
     },
     {
         "parent": "dhaka",
+        "key": "dhaka_aftab_nagar",
+        "label": "Aftab nagar"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_badda",
+        "label": "Badda"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_banani",
+        "label": "Banani"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_banasree",
+        "label": "Banasree"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_banglamotor",
+        "label": "Banglamotor"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_bangshal",
+        "label": "Bangshal"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_baridhara",
+        "label": "Baridhara"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_basabo",
+        "label": "Basabo"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_basundhara",
+        "label": "Basundhara"
+    },
+    {
+        "parent": "dhaka",
         "key": "dhaka_bosila",
         "label": "Bosila"
     },
     {
         "parent": "dhaka",
-        "key": "dhaka_shantinagar",
-        "label": "Shantinagar"
+        "key": "dhaka_cantonment",
+        "label": "Cantonment"
     },
     {
         "parent": "dhaka",
-        "key": "dhaka_kotwali",
-        "label": "Kotwali"
+        "key": "dhaka_chaukbazar",
+        "label": "Chaukbazar"
     },
     {
         "parent": "dhaka",
-        "key": "dhaka_shewrapara",
-        "label": "Shewrapara"
+        "key": "dhaka_demra",
+        "label": "Demra"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_dhamrai",
+        "label": "Dhamrai"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_dhanmondi",
+        "label": "Dhanmondi"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_dohar",
+        "label": "Dohar"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_ecb_chattar",
+        "label": "ECB Chattar"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_elephant_road",
+        "label": "Elephant Road"
     },
     {
         "parent": "dhaka",
@@ -336,28 +561,163 @@
     },
     {
         "parent": "dhaka",
-        "key": "dhaka_dohar",
-        "label": "Dohar"
+        "key": "dhaka_farmgate",
+        "label": "Farmgate"
     },
     {
-        "parent": "dhaka_division",
-        "key": "dhaka_division_gazipur",
-        "label": "Gazipur"
+        "parent": "dhaka",
+        "key": "dhaka_gulshan",
+        "label": "Gulshan"
     },
     {
-        "parent": "dhaka_division",
-        "key": "dhaka_division_narayanganj",
-        "label": "Narayanganj"
+        "parent": "dhaka",
+        "key": "dhaka_hazaribagh",
+        "label": "Hazaribagh"
     },
     {
-        "parent": "dhaka_division",
-        "key": "dhaka_division_tangail",
-        "label": "Tangail"
+        "parent": "dhaka",
+        "key": "dhaka_jatrabari",
+        "label": "Jatrabari"
     },
     {
-        "parent": "dhaka_division",
-        "key": "dhaka_division_narsingdi",
-        "label": "Narsingdi"
+        "parent": "dhaka",
+        "key": "dhaka_kafrul",
+        "label": "Kafrul"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_kamrangirchar",
+        "label": "Kamrangirchar"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_keraniganj",
+        "label": "Keraniganj"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_khilgaon",
+        "label": "Khilgaon"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_khilkhet",
+        "label": "Khilkhet"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_kotwali",
+        "label": "Kotwali"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_lalbag",
+        "label": "Lalbag"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_malibag",
+        "label": "Malibag"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_mirpur",
+        "label": "Mirpur"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_mogbazar",
+        "label": "Mogbazar"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_mohakhali",
+        "label": "Mohakhali"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_mohammadpur",
+        "label": "Mohammadpur"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_motijheel",
+        "label": "Motijheel"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_nawabganj",
+        "label": "Nawabganj"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_new_market",
+        "label": "New Market"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_paltan",
+        "label": "Paltan"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_purbachal",
+        "label": "Purbachal"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_ramna",
+        "label": "Ramna"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_rampura",
+        "label": "Rampura"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_savar",
+        "label": "Savar"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_shantinagar",
+        "label": "Shantinagar"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_shewrapara",
+        "label": "Shewrapara"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_shyamoli",
+        "label": "Shyamoli"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_sutrapur",
+        "label": "Sutrapur"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_tejgaon",
+        "label": "Tejgaon"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_tongi",
+        "label": "Tongi"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_uttara",
+        "label": "Uttara"
+    },
+    {
+        "parent": "dhaka",
+        "key": "dhaka_wari",
+        "label": "Wari"
     },
     {
         "parent": "dhaka_division",
@@ -366,18 +726,18 @@
     },
     {
         "parent": "dhaka_division",
-        "key": "dhaka_division_kishoreganj",
-        "label": "Kishoreganj"
-    },
-    {
-        "parent": "dhaka_division",
-        "key": "dhaka_division_munshiganj",
-        "label": "Munshiganj"
+        "key": "dhaka_division_gazipur",
+        "label": "Gazipur"
     },
     {
         "parent": "dhaka_division",
         "key": "dhaka_division_gopalganj",
         "label": "Gopalganj"
+    },
+    {
+        "parent": "dhaka_division",
+        "key": "dhaka_division_kishoreganj",
+        "label": "Kishoreganj"
     },
     {
         "parent": "dhaka_division",
@@ -391,6 +751,21 @@
     },
     {
         "parent": "dhaka_division",
+        "key": "dhaka_division_munshiganj",
+        "label": "Munshiganj"
+    },
+    {
+        "parent": "dhaka_division",
+        "key": "dhaka_division_narayanganj",
+        "label": "Narayanganj"
+    },
+    {
+        "parent": "dhaka_division",
+        "key": "dhaka_division_narsingdi",
+        "label": "Narsingdi"
+    },
+    {
+        "parent": "dhaka_division",
         "key": "dhaka_division_rajbari",
         "label": "Rajbari"
     },
@@ -400,304 +775,9 @@
         "label": "Shariatpur"
     },
     {
-        "parent": "chattogram",
-        "key": "chattogram_agrabad",
-        "label": "Agrabad"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_chawkbazar",
-        "label": "Chawkbazar"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_nasirabad",
-        "label": "Nasirabad"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_kotwali",
-        "label": "Kotwali"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_halishahar",
-        "label": "Halishahar"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_chandgaon",
-        "label": "Chandgaon"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_baizid",
-        "label": "Baizid"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_khulshi",
-        "label": "Khulshi"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_muradpur",
-        "label": "Muradpur"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_patenga",
-        "label": "Patenga"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_oxygen",
-        "label": "Oxygen"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_cornelhat",
-        "label": "Cornelhat"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_pahartali",
-        "label": "Pahartali"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_hathazari",
-        "label": "Hathazari"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_lalkhan_bazar",
-        "label": "Lalkhan Bazar"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_bakoliya",
-        "label": "Bakoliya"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_panchlaish",
-        "label": "Panchlaish"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_bandar",
-        "label": "Bandar"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_double_mooring",
-        "label": "Double Mooring"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_anderkilla",
-        "label": "Anderkilla"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_cda_avenue",
-        "label": "CDA Avenue"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_kajir_dewry",
-        "label": "Kajir Dewry"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_new_market",
-        "label": "New Market"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_alankar",
-        "label": "Alankar"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_mirsharai",
-        "label": "Mirsharai"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_jamalkhan",
-        "label": "Jamalkhan"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_patiya",
-        "label": "Patiya"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_karnafuly",
-        "label": "Karnafuly"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_raozan",
-        "label": "Raozan"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_fatikchari",
-        "label": "Fatikchari"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_anwara",
-        "label": "Anwara"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_sholashahar",
-        "label": "Sholashahar"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_rangunia",
-        "label": "Rangunia"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_boalkhali",
-        "label": "Boalkhali"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_lohagara",
-        "label": "Lohagara"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_chandanaish",
-        "label": "Chandanaish"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_banskhali",
-        "label": "Banskhali"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_satkania",
-        "label": "Satkania"
-    },
-    {
-        "parent": "chattogram",
-        "key": "chattogram_sandwip",
-        "label": "Sandwip"
-    },
-    {
-        "parent": "chattogram_division",
-        "key": "chattogram_division_cumilla",
-        "label": "Cumilla"
-    },
-    {
-        "parent": "chattogram_division",
-        "key": "chattogram_division_noakhali",
-        "label": "Noakhali"
-    },
-    {
-        "parent": "chattogram_division",
-        "key": "chattogram_division_brahmanbaria",
-        "label": "Brahmanbaria"
-    },
-    {
-        "parent": "chattogram_division",
-        "key": "chattogram_division_feni",
-        "label": "Feni"
-    },
-    {
-        "parent": "chattogram_division",
-        "key": "chattogram_division_chandpur",
-        "label": "Chandpur"
-    },
-    {
-        "parent": "chattogram_division",
-        "key": "chattogram_division_lakshmipur",
-        "label": "Lakshmipur"
-    },
-    {
-        "parent": "chattogram_division",
-        "key": "chattogram_division_coxs_bazar",
-        "label": "Cox's Bazar"
-    },
-    {
-        "parent": "chattogram_division",
-        "key": "chattogram_division_rangamati",
-        "label": "Rangamati"
-    },
-    {
-        "parent": "chattogram_division",
-        "key": "chattogram_division_khagrachhari",
-        "label": "Khagrachhari"
-    },
-    {
-        "parent": "chattogram_division",
-        "key": "chattogram_division_sitakundo",
-        "label": "Sitakundo"
-    },
-    {
-        "parent": "chattogram_division",
-        "key": "chattogram_division_chakaria",
-        "label": "Chakaria"
-    },
-    {
-        "parent": "chattogram_division",
-        "key": "chattogram_division_bandarban",
-        "label": "Bandarban"
-    },
-    {
-        "parent": "khulna",
-        "key": "khulna_khulna_sadar",
-        "label": "Khulna Sadar"
-    },
-    {
-        "parent": "khulna",
-        "key": "khulna_daulatpur",
-        "label": "Daulatpur"
-    },
-    {
-        "parent": "khulna",
-        "key": "khulna_khalishpur",
-        "label": "Khalishpur"
-    },
-    {
-        "parent": "khulna",
-        "key": "khulna_sonadanga",
-        "label": "Sonadanga"
-    },
-    {
-        "parent": "khulna",
-        "key": "khulna_boyra_bazar",
-        "label": "Boyra Bazar"
-    },
-    {
-        "parent": "khulna",
-        "key": "khulna_rupsa",
-        "label": "Rupsa"
-    },
-    {
-        "parent": "khulna",
-        "key": "khulna_gollamari",
-        "label": "Gollamari"
-    },
-    {
-        "parent": "khulna",
-        "key": "khulna_phultala",
-        "label": "Phultala"
-    },
-    {
-        "parent": "khulna",
-        "key": "khulna_dumuria",
-        "label": "Dumuria"
+        "parent": "dhaka_division",
+        "key": "dhaka_division_tangail",
+        "label": "Tangail"
     },
     {
         "parent": "khulna",
@@ -706,53 +786,8 @@
     },
     {
         "parent": "khulna",
-        "key": "khulna_nirala",
-        "label": "Nirala"
-    },
-    {
-        "parent": "khulna",
-        "key": "khulna_zero_point",
-        "label": "Zero Point"
-    },
-    {
-        "parent": "khulna",
-        "key": "khulna_dighalia",
-        "label": "Dighalia"
-    },
-    {
-        "parent": "khulna",
-        "key": "khulna_lobon_chora",
-        "label": "Lobon Chora"
-    },
-    {
-        "parent": "khulna",
-        "key": "khulna_terokhada",
-        "label": "Terokhada"
-    },
-    {
-        "parent": "khulna",
-        "key": "khulna_paikgachha",
-        "label": "Paikgachha"
-    },
-    {
-        "parent": "khulna",
-        "key": "khulna_dakbangla",
-        "label": "Dakbangla"
-    },
-    {
-        "parent": "khulna",
-        "key": "khulna_keshabpur",
-        "label": "Keshabpur"
-    },
-    {
-        "parent": "khulna",
-        "key": "khulna_moylapota",
-        "label": "Moylapota"
-    },
-    {
-        "parent": "khulna",
-        "key": "khulna_shib_bari",
-        "label": "Shib Bari"
+        "key": "khulna_boyra_bazar",
+        "label": "Boyra Bazar"
     },
     {
         "parent": "khulna",
@@ -761,18 +796,28 @@
     },
     {
         "parent": "khulna",
-        "key": "khulna_rayermohol",
-        "label": "Rayermohol"
+        "key": "khulna_dakbangla",
+        "label": "Dakbangla"
     },
     {
         "parent": "khulna",
-        "key": "khulna_tootpara",
-        "label": "Tootpara"
+        "key": "khulna_daulatpur",
+        "label": "Daulatpur"
     },
     {
         "parent": "khulna",
-        "key": "khulna_koyra",
-        "label": "Koyra"
+        "key": "khulna_dighalia",
+        "label": "Dighalia"
+    },
+    {
+        "parent": "khulna",
+        "key": "khulna_dumuria",
+        "label": "Dumuria"
+    },
+    {
+        "parent": "khulna",
+        "key": "khulna_gollamari",
+        "label": "Gollamari"
     },
     {
         "parent": "khulna",
@@ -781,8 +826,18 @@
     },
     {
         "parent": "khulna",
-        "key": "khulna_pabla",
-        "label": "Pabla"
+        "key": "khulna_keshabpur",
+        "label": "Keshabpur"
+    },
+    {
+        "parent": "khulna",
+        "key": "khulna_khalishpur",
+        "label": "Khalishpur"
+    },
+    {
+        "parent": "khulna",
+        "key": "khulna_khulna_sadar",
+        "label": "Khulna Sadar"
     },
     {
         "parent": "khulna",
@@ -790,24 +845,74 @@
         "label": "Koyla Ghat"
     },
     {
-        "parent": "khulna_division",
-        "key": "khulna_division_kushtia",
-        "label": "Kushtia"
+        "parent": "khulna",
+        "key": "khulna_koyra",
+        "label": "Koyra"
     },
     {
-        "parent": "khulna_division",
-        "key": "khulna_division_jashore",
-        "label": "Jashore"
+        "parent": "khulna",
+        "key": "khulna_lobon_chora",
+        "label": "Lobon Chora"
     },
     {
-        "parent": "khulna_division",
-        "key": "khulna_division_jhenaidah",
-        "label": "Jhenaidah"
+        "parent": "khulna",
+        "key": "khulna_moylapota",
+        "label": "Moylapota"
     },
     {
-        "parent": "khulna_division",
-        "key": "khulna_division_satkhira",
-        "label": "Satkhira"
+        "parent": "khulna",
+        "key": "khulna_nirala",
+        "label": "Nirala"
+    },
+    {
+        "parent": "khulna",
+        "key": "khulna_pabla",
+        "label": "Pabla"
+    },
+    {
+        "parent": "khulna",
+        "key": "khulna_paikgachha",
+        "label": "Paikgachha"
+    },
+    {
+        "parent": "khulna",
+        "key": "khulna_phultala",
+        "label": "Phultala"
+    },
+    {
+        "parent": "khulna",
+        "key": "khulna_rayermohol",
+        "label": "Rayermohol"
+    },
+    {
+        "parent": "khulna",
+        "key": "khulna_rupsa",
+        "label": "Rupsa"
+    },
+    {
+        "parent": "khulna",
+        "key": "khulna_shib_bari",
+        "label": "Shib Bari"
+    },
+    {
+        "parent": "khulna",
+        "key": "khulna_sonadanga",
+        "label": "Sonadanga"
+    },
+    {
+        "parent": "khulna",
+        "key": "khulna_terokhada",
+        "label": "Terokhada"
+    },
+    {
+        "parent": "khulna",
+        "key": "khulna_tootpara",
+        "label": "Tootpara"
+    },
+    {
+        "parent": "khulna",
+        "key": "khulna_zero_point",
+        "label": "Zero Point"
     },
     {
         "parent": "khulna_division",
@@ -821,8 +926,28 @@
     },
     {
         "parent": "khulna_division",
+        "key": "khulna_division_jashore",
+        "label": "Jashore"
+    },
+    {
+        "parent": "khulna_division",
+        "key": "khulna_division_jhenaidah",
+        "label": "Jhenaidah"
+    },
+    {
+        "parent": "khulna_division",
+        "key": "khulna_division_kushtia",
+        "label": "Kushtia"
+    },
+    {
+        "parent": "khulna_division",
         "key": "khulna_division_magura",
         "label": "Magura"
+    },
+    {
+        "parent": "khulna_division",
+        "key": "khulna_division_meherpur",
+        "label": "Meherpur"
     },
     {
         "parent": "khulna_division",
@@ -831,303 +956,78 @@
     },
     {
         "parent": "khulna_division",
-        "key": "khulna_division_meherpur",
-        "label": "Meherpur"
+        "key": "khulna_division_satkhira",
+        "label": "Satkhira"
     },
     {
-        "parent": "sylhet",
-        "key": "sylhet_zinda_bazar",
-        "label": "Zinda Bazar"
+        "parent": "mymensingh",
+        "key": "mymensingh_cantonment",
+        "label": "Cantonment"
     },
     {
-        "parent": "sylhet",
-        "key": "sylhet_bandar_bazar",
-        "label": "Bandar Bazar"
+        "parent": "mymensingh",
+        "key": "mymensingh_chorpara",
+        "label": "Chorpara"
     },
     {
-        "parent": "sylhet",
-        "key": "sylhet_amber_khana",
-        "label": "Amber Khana"
+        "parent": "mymensingh",
+        "key": "mymensingh_ganginar_par",
+        "label": "Ganginar par"
     },
     {
-        "parent": "sylhet",
-        "key": "sylhet_uposhohor",
-        "label": "Uposhohor"
+        "parent": "mymensingh",
+        "key": "mymensingh_ishwarganj",
+        "label": "Ishwarganj"
     },
     {
-        "parent": "sylhet",
-        "key": "sylhet_south_surma",
-        "label": "South Surma"
+        "parent": "mymensingh",
+        "key": "mymensingh_kewatkhali",
+        "label": "Kewatkhali"
     },
     {
-        "parent": "sylhet",
-        "key": "sylhet_shibgonj",
-        "label": "Shibgonj"
+        "parent": "mymensingh",
+        "key": "mymensingh_kistopur",
+        "label": "Kistopur"
     },
     {
-        "parent": "sylhet",
-        "key": "sylhet_shahporan",
-        "label": "Shahporan"
+        "parent": "mymensingh",
+        "key": "mymensingh_muktagacha",
+        "label": "Muktagacha"
     },
     {
-        "parent": "sylhet",
-        "key": "sylhet_akhalia",
-        "label": "Akhalia"
+        "parent": "mymensingh",
+        "key": "mymensingh_naumahal",
+        "label": "Naumahal"
     },
     {
-        "parent": "sylhet",
-        "key": "sylhet_golapganj",
-        "label": "Golapganj"
+        "parent": "mymensingh",
+        "key": "mymensingh_phulpur",
+        "label": "Phulpur"
     },
     {
-        "parent": "sylhet",
-        "key": "sylhet_subid_bazar",
-        "label": "Subid Bazar"
+        "parent": "mymensingh",
+        "key": "mymensingh_town_hall",
+        "label": "Town Hall"
     },
     {
-        "parent": "sylhet",
-        "key": "sylhet_shahi_eidgah",
-        "label": "Shahi Eidgah"
+        "parent": "mymensingh",
+        "key": "mymensingh_valuka",
+        "label": "Valuka"
     },
     {
-        "parent": "sylhet",
-        "key": "sylhet_pathan_tula",
-        "label": "Pathan Tula"
+        "parent": "mymensingh_division",
+        "key": "mymensingh_division_jamalpur",
+        "label": "Jamalpur"
     },
     {
-        "parent": "sylhet",
-        "key": "sylhet_majortila",
-        "label": "Majortila"
+        "parent": "mymensingh_division",
+        "key": "mymensingh_division_netrokona",
+        "label": "Netrokona"
     },
     {
-        "parent": "sylhet",
-        "key": "sylhet_bagh_bari_baghbari",
-        "label": "Bagh Bari (Baghbari)"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_beanibazar",
-        "label": "Beanibazar"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_mira_bazar",
-        "label": "Mira Bazar"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_bishwanath",
-        "label": "Bishwanath"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_lama_bazar",
-        "label": "Lama Bazar"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_osmani_nagar",
-        "label": "Osmani Nagar"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_tilagor",
-        "label": "Tilagor"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_kumar_para",
-        "label": "Kumar para"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_bateshwar",
-        "label": "Bateshwar"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_taltola",
-        "label": "Taltola"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_kajal_shah",
-        "label": "Kajal Shah"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_bimanbondor",
-        "label": "Bimanbondor"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_kazitula",
-        "label": "Kazitula"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_subhani_ghat",
-        "label": "Subhani Ghat"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_nayasarak",
-        "label": "Nayasarak"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_fenchuganj",
-        "label": "Fenchuganj"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_chouhatta",
-        "label": "Chouhatta"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_jaintapur",
-        "label": "Jaintapur"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_dargah_mahalla",
-        "label": "Dargah Mahalla"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_zakiganj",
-        "label": "Zakiganj"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_gowainghat",
-        "label": "Gowainghat"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_balaganj",
-        "label": "Balaganj"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_companiganj",
-        "label": "Companiganj"
-    },
-    {
-        "parent": "sylhet",
-        "key": "sylhet_kanaighat",
-        "label": "Kanaighat"
-    },
-    {
-        "parent": "sylhet_division",
-        "key": "sylhet_division_habiganj",
-        "label": "Habiganj"
-    },
-    {
-        "parent": "sylhet_division",
-        "key": "sylhet_division_maulvi_bazar",
-        "label": "Maulvi Bazar"
-    },
-    {
-        "parent": "sylhet_division",
-        "key": "sylhet_division_sunamganj",
-        "label": "Sunamganj"
-    },
-    {
-        "parent": "sylhet_division",
-        "key": "sylhet_division_sreemangal",
-        "label": "Sreemangal"
-    },
-    {
-        "parent": "sylhet_division",
-        "key": "sylhet_division_borolekha",
-        "label": "Borolekha"
-    },
-    {
-        "parent": "rajshahi",
-        "key": "rajshahi_new_market",
-        "label": "New Market"
-    },
-    {
-        "parent": "rajshahi",
-        "key": "rajshahi_shaheb_bazar",
-        "label": "Shaheb Bazar"
-    },
-    {
-        "parent": "rajshahi",
-        "key": "rajshahi_uposahar",
-        "label": "Uposahar"
-    },
-    {
-        "parent": "rajshahi",
-        "key": "rajshahi_motihar",
-        "label": "Motihar"
-    },
-    {
-        "parent": "rajshahi",
-        "key": "rajshahi_rajpara",
-        "label": "Rajpara"
-    },
-    {
-        "parent": "rajshahi",
-        "key": "rajshahi_kazla",
-        "label": "Kazla"
-    },
-    {
-        "parent": "rajshahi",
-        "key": "rajshahi_court_station",
-        "label": "Court Station"
-    },
-    {
-        "parent": "rajshahi",
-        "key": "rajshahi_laksimipur",
-        "label": "Laksimipur"
-    },
-    {
-        "parent": "rajshahi",
-        "key": "rajshahi_chhota_banagram",
-        "label": "Chhota Banagram"
-    },
-    {
-        "parent": "rajshahi",
-        "key": "rajshahi_boalia",
-        "label": "Boalia"
-    },
-    {
-        "parent": "rajshahi",
-        "key": "rajshahi_shiroil",
-        "label": "Shiroil"
-    },
-    {
-        "parent": "rajshahi",
-        "key": "rajshahi_vodra",
-        "label": "Vodra"
-    },
-    {
-        "parent": "rajshahi",
-        "key": "rajshahi_padma_residental_area",
-        "label": "Padma Residental Area"
-    },
-    {
-        "parent": "rajshahi",
-        "key": "rajshahi_hatemkha",
-        "label": "Hatemkha"
-    },
-    {
-        "parent": "rajshahi",
-        "key": "rajshahi_baharampur",
-        "label": "Baharampur"
-    },
-    {
-        "parent": "rajshahi",
-        "key": "rajshahi_kadirgonj",
-        "label": "Kadirgonj"
-    },
-    {
-        "parent": "rajshahi",
-        "key": "rajshahi_godagari",
-        "label": "Godagari"
+        "parent": "mymensingh_division",
+        "key": "mymensingh_division_sherpur",
+        "label": "Sherpur"
     },
     {
         "parent": "rajshahi",
@@ -1136,23 +1036,13 @@
     },
     {
         "parent": "rajshahi",
-        "key": "rajshahi_rani_nagar",
-        "label": "Rani Nagar"
+        "key": "rajshahi_baharampur",
+        "label": "Baharampur"
     },
     {
         "parent": "rajshahi",
-        "key": "rajshahi_ramchandrapur",
-        "label": "Ramchandrapur"
-    },
-    {
-        "parent": "rajshahi",
-        "key": "rajshahi_kazihata",
-        "label": "Kazihata"
-    },
-    {
-        "parent": "rajshahi",
-        "key": "rajshahi_haripur",
-        "label": "Haripur"
+        "key": "rajshahi_boalia",
+        "label": "Boalia"
     },
     {
         "parent": "rajshahi",
@@ -1161,13 +1051,103 @@
     },
     {
         "parent": "rajshahi",
+        "key": "rajshahi_chhota_banagram",
+        "label": "Chhota Banagram"
+    },
+    {
+        "parent": "rajshahi",
+        "key": "rajshahi_court_station",
+        "label": "Court Station"
+    },
+    {
+        "parent": "rajshahi",
+        "key": "rajshahi_godagari",
+        "label": "Godagari"
+    },
+    {
+        "parent": "rajshahi",
+        "key": "rajshahi_haripur",
+        "label": "Haripur"
+    },
+    {
+        "parent": "rajshahi",
+        "key": "rajshahi_hatemkha",
+        "label": "Hatemkha"
+    },
+    {
+        "parent": "rajshahi",
         "key": "rajshahi_hossainiganj",
         "label": "Hossainiganj"
     },
     {
-        "parent": "rajshahi_division",
-        "key": "rajshahi_division_pabna",
-        "label": "Pabna"
+        "parent": "rajshahi",
+        "key": "rajshahi_kadirgonj",
+        "label": "Kadirgonj"
+    },
+    {
+        "parent": "rajshahi",
+        "key": "rajshahi_kazihata",
+        "label": "Kazihata"
+    },
+    {
+        "parent": "rajshahi",
+        "key": "rajshahi_kazla",
+        "label": "Kazla"
+    },
+    {
+        "parent": "rajshahi",
+        "key": "rajshahi_laksimipur",
+        "label": "Laksimipur"
+    },
+    {
+        "parent": "rajshahi",
+        "key": "rajshahi_motihar",
+        "label": "Motihar"
+    },
+    {
+        "parent": "rajshahi",
+        "key": "rajshahi_new_market",
+        "label": "New Market"
+    },
+    {
+        "parent": "rajshahi",
+        "key": "rajshahi_padma_residental_area",
+        "label": "Padma Residental Area"
+    },
+    {
+        "parent": "rajshahi",
+        "key": "rajshahi_rajpara",
+        "label": "Rajpara"
+    },
+    {
+        "parent": "rajshahi",
+        "key": "rajshahi_ramchandrapur",
+        "label": "Ramchandrapur"
+    },
+    {
+        "parent": "rajshahi",
+        "key": "rajshahi_rani_nagar",
+        "label": "Rani Nagar"
+    },
+    {
+        "parent": "rajshahi",
+        "key": "rajshahi_shaheb_bazar",
+        "label": "Shaheb Bazar"
+    },
+    {
+        "parent": "rajshahi",
+        "key": "rajshahi_shiroil",
+        "label": "Shiroil"
+    },
+    {
+        "parent": "rajshahi",
+        "key": "rajshahi_uposahar",
+        "label": "Uposahar"
+    },
+    {
+        "parent": "rajshahi",
+        "key": "rajshahi_vodra",
+        "label": "Vodra"
     },
     {
         "parent": "rajshahi_division",
@@ -1176,18 +1156,8 @@
     },
     {
         "parent": "rajshahi_division",
-        "key": "rajshahi_division_natore",
-        "label": "Natore"
-    },
-    {
-        "parent": "rajshahi_division",
-        "key": "rajshahi_division_sirajganj",
-        "label": "Sirajganj"
-    },
-    {
-        "parent": "rajshahi_division",
-        "key": "rajshahi_division_naogaon",
-        "label": "Naogaon"
+        "key": "rajshahi_division_chapainawabganj",
+        "label": "Chapainawabganj"
     },
     {
         "parent": "rajshahi_division",
@@ -1196,58 +1166,28 @@
     },
     {
         "parent": "rajshahi_division",
-        "key": "rajshahi_division_chapainawabganj",
-        "label": "Chapainawabganj"
+        "key": "rajshahi_division_naogaon",
+        "label": "Naogaon"
+    },
+    {
+        "parent": "rajshahi_division",
+        "key": "rajshahi_division_natore",
+        "label": "Natore"
+    },
+    {
+        "parent": "rajshahi_division",
+        "key": "rajshahi_division_pabna",
+        "label": "Pabna"
+    },
+    {
+        "parent": "rajshahi_division",
+        "key": "rajshahi_division_sirajganj",
+        "label": "Sirajganj"
     },
     {
         "parent": "rangpur",
-        "key": "rangpur_jahaj_company_mor",
-        "label": "Jahaj Company Mor"
-    },
-    {
-        "parent": "rangpur",
-        "key": "rangpur_shapla_chottor",
-        "label": "Shapla Chottor"
-    },
-    {
-        "parent": "rangpur",
-        "key": "rangpur_dhap",
-        "label": "Dhap"
-    },
-    {
-        "parent": "rangpur",
-        "key": "rangpur_lalbag_mor",
-        "label": "Lalbag Mor"
-    },
-    {
-        "parent": "rangpur",
-        "key": "rangpur_pourobazar",
-        "label": "Pourobazar"
-    },
-    {
-        "parent": "rangpur",
-        "key": "rangpur_shatmatha_chottor",
-        "label": "Shatmatha Chottor"
-    },
-    {
-        "parent": "rangpur",
-        "key": "rangpur_terminal_road",
-        "label": "Terminal Road"
-    },
-    {
-        "parent": "rangpur",
-        "key": "rangpur_mahigonj",
-        "label": "Mahigonj"
-    },
-    {
-        "parent": "rangpur",
-        "key": "rangpur_modern_more",
-        "label": "Modern More"
-    },
-    {
-        "parent": "rangpur",
-        "key": "rangpur_kachari_bazaar",
-        "label": "Kachari Bazaar"
+        "key": "rangpur_alamdangha",
+        "label": "Alamdangha"
     },
     {
         "parent": "rangpur",
@@ -1256,38 +1196,13 @@
     },
     {
         "parent": "rangpur",
-        "key": "rangpur_mithapukur",
-        "label": "Mithapukur"
-    },
-    {
-        "parent": "rangpur",
-        "key": "rangpur_paglapir",
-        "label": "Paglapir"
-    },
-    {
-        "parent": "rangpur",
-        "key": "rangpur_tajhat",
-        "label": "Tajhat"
-    },
-    {
-        "parent": "rangpur",
-        "key": "rangpur_shathibari",
-        "label": "Shathibari"
-    },
-    {
-        "parent": "rangpur",
-        "key": "rangpur_gangachara",
-        "label": "Gangachara"
-    },
-    {
-        "parent": "rangpur",
         "key": "rangpur_college_para",
         "label": "College Para"
     },
     {
         "parent": "rangpur",
-        "key": "rangpur_shatrasta_mor",
-        "label": "Shatrasta Mor"
+        "key": "rangpur_dhap",
+        "label": "Dhap"
     },
     {
         "parent": "rangpur",
@@ -1296,13 +1211,83 @@
     },
     {
         "parent": "rangpur",
-        "key": "rangpur_vinno_jogot",
-        "label": "Vinno Jogot"
+        "key": "rangpur_gangachara",
+        "label": "Gangachara"
     },
     {
         "parent": "rangpur",
-        "key": "rangpur_alamdangha",
-        "label": "Alamdangha"
+        "key": "rangpur_jahaj_company_mor",
+        "label": "Jahaj Company Mor"
+    },
+    {
+        "parent": "rangpur",
+        "key": "rangpur_kachari_bazaar",
+        "label": "Kachari Bazaar"
+    },
+    {
+        "parent": "rangpur",
+        "key": "rangpur_lalbag_mor",
+        "label": "Lalbag Mor"
+    },
+    {
+        "parent": "rangpur",
+        "key": "rangpur_mahigonj",
+        "label": "Mahigonj"
+    },
+    {
+        "parent": "rangpur",
+        "key": "rangpur_mithapukur",
+        "label": "Mithapukur"
+    },
+    {
+        "parent": "rangpur",
+        "key": "rangpur_modern_more",
+        "label": "Modern More"
+    },
+    {
+        "parent": "rangpur",
+        "key": "rangpur_paglapir",
+        "label": "Paglapir"
+    },
+    {
+        "parent": "rangpur",
+        "key": "rangpur_pourobazar",
+        "label": "Pourobazar"
+    },
+    {
+        "parent": "rangpur",
+        "key": "rangpur_shapla_chottor",
+        "label": "Shapla Chottor"
+    },
+    {
+        "parent": "rangpur",
+        "key": "rangpur_shathibari",
+        "label": "Shathibari"
+    },
+    {
+        "parent": "rangpur",
+        "key": "rangpur_shatmatha_chottor",
+        "label": "Shatmatha Chottor"
+    },
+    {
+        "parent": "rangpur",
+        "key": "rangpur_shatrasta_mor",
+        "label": "Shatrasta Mor"
+    },
+    {
+        "parent": "rangpur",
+        "key": "rangpur_tajhat",
+        "label": "Tajhat"
+    },
+    {
+        "parent": "rangpur",
+        "key": "rangpur_terminal_road",
+        "label": "Terminal Road"
+    },
+    {
+        "parent": "rangpur",
+        "key": "rangpur_vinno_jogot",
+        "label": "Vinno Jogot"
     },
     {
         "parent": "rangpur_division",
@@ -1311,18 +1296,13 @@
     },
     {
         "parent": "rangpur_division",
-        "key": "rangpur_division_kurigram",
-        "label": "Kurigram"
-    },
-    {
-        "parent": "rangpur_division",
         "key": "rangpur_division_gaibandha",
         "label": "Gaibandha"
     },
     {
         "parent": "rangpur_division",
-        "key": "rangpur_division_saidpur",
-        "label": "Saidpur"
+        "key": "rangpur_division_kurigram",
+        "label": "Kurigram"
     },
     {
         "parent": "rangpur_division",
@@ -1341,202 +1321,222 @@
     },
     {
         "parent": "rangpur_division",
+        "key": "rangpur_division_saidpur",
+        "label": "Saidpur"
+    },
+    {
+        "parent": "rangpur_division",
         "key": "rangpur_division_thakurgaon",
         "label": "Thakurgaon"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_sadar_road",
-        "label": "Sadar Road"
+        "parent": "sylhet",
+        "key": "sylhet_akhalia",
+        "label": "Akhalia"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_nattullabad",
-        "label": "Nattullabad"
+        "parent": "sylhet",
+        "key": "sylhet_amber_khana",
+        "label": "Amber Khana"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_rupatali",
-        "label": "Rupatali"
+        "parent": "sylhet",
+        "key": "sylhet_bagh_bari",
+        "label": "Bagh Bari (Baghbari)"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_nobogram_road",
-        "label": "Nobogram Road"
+        "parent": "sylhet",
+        "key": "sylhet_balaganj",
+        "label": "Balaganj"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_gournadi",
-        "label": "Gournadi"
+        "parent": "sylhet",
+        "key": "sylhet_bandar_bazar",
+        "label": "Bandar Bazar"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_amtala",
-        "label": "Amtala"
+        "parent": "sylhet",
+        "key": "sylhet_bateshwar",
+        "label": "Bateshwar"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_kashipur_bazar",
-        "label": "Kashipur Bazar"
+        "parent": "sylhet",
+        "key": "sylhet_beanibazar",
+        "label": "Beanibazar"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_banglabazar",
-        "label": "Banglabazar"
+        "parent": "sylhet",
+        "key": "sylhet_bimanbondor",
+        "label": "Bimanbondor"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_bakerganj",
-        "label": "Bakerganj"
+        "parent": "sylhet",
+        "key": "sylhet_bishwanath",
+        "label": "Bishwanath"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_natun_bazar",
-        "label": "Natun Bazar"
+        "parent": "sylhet",
+        "key": "sylhet_chouhatta",
+        "label": "Chouhatta"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_beltola_feri_ghat",
-        "label": "Beltola Feri Ghat"
+        "parent": "sylhet",
+        "key": "sylhet_companiganj",
+        "label": "Companiganj"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_city_gate_barishal_gorierpar",
-        "label": "City Gate Barishal (Gorierpar)"
+        "parent": "sylhet",
+        "key": "sylhet_dargah_mahalla",
+        "label": "Dargah Mahalla"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_launch_ghat",
-        "label": "Launch Ghat"
+        "parent": "sylhet",
+        "key": "sylhet_fenchuganj",
+        "label": "Fenchuganj"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_nazirmoholla",
-        "label": "Nazirmoholla"
+        "parent": "sylhet",
+        "key": "sylhet_golapganj",
+        "label": "Golapganj"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_chand_mari",
-        "label": "Chand Mari"
+        "parent": "sylhet",
+        "key": "sylhet_gowainghat",
+        "label": "Gowainghat"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_kalizira",
-        "label": "Kalizira"
+        "parent": "sylhet",
+        "key": "sylhet_jaintapur",
+        "label": "Jaintapur"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_chawk_bazar",
-        "label": "Chawk Bazar"
+        "parent": "sylhet",
+        "key": "sylhet_kajal_shah",
+        "label": "Kajal Shah"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_uttar_alekanda",
-        "label": "Uttar Alekanda"
+        "parent": "sylhet",
+        "key": "sylhet_kanaighat",
+        "label": "Kanaighat"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_mehendiganj",
-        "label": "Mehendiganj"
+        "parent": "sylhet",
+        "key": "sylhet_kazitula",
+        "label": "Kazitula"
     },
     {
-        "parent": "barishal",
-        "key": "barishal_puran_bazar",
-        "label": "Puran Bazar"
+        "parent": "sylhet",
+        "key": "sylhet_kumar_para",
+        "label": "Kumar para"
     },
     {
-        "parent": "barishal_division",
-        "key": "barishal_division_patuakhali",
-        "label": "Patuakhali"
+        "parent": "sylhet",
+        "key": "sylhet_lama_bazar",
+        "label": "Lama Bazar"
     },
     {
-        "parent": "barishal_division",
-        "key": "barishal_division_bhola",
-        "label": "Bhola"
+        "parent": "sylhet",
+        "key": "sylhet_majortila",
+        "label": "Majortila"
     },
     {
-        "parent": "barishal_division",
-        "key": "barishal_division_barguna",
-        "label": "Barguna"
+        "parent": "sylhet",
+        "key": "sylhet_mira_bazar",
+        "label": "Mira Bazar"
     },
     {
-        "parent": "barishal_division",
-        "key": "barishal_division_pirojpur",
-        "label": "Pirojpur"
+        "parent": "sylhet",
+        "key": "sylhet_nayasarak",
+        "label": "Nayasarak"
     },
     {
-        "parent": "barishal_division",
-        "key": "barishal_division_jhalokati",
-        "label": "Jhalokati"
+        "parent": "sylhet",
+        "key": "sylhet_osmani_nagar",
+        "label": "Osmani Nagar"
     },
     {
-        "parent": "mymensingh",
-        "key": "mymensingh_ganginar_par",
-        "label": "Ganginar par"
+        "parent": "sylhet",
+        "key": "sylhet_pathan_tula",
+        "label": "Pathan Tula"
     },
     {
-        "parent": "mymensingh",
-        "key": "mymensingh_valuka",
-        "label": "Valuka"
+        "parent": "sylhet",
+        "key": "sylhet_shahi_eidgah",
+        "label": "Shahi Eidgah"
     },
     {
-        "parent": "mymensingh",
-        "key": "mymensingh_chorpara",
-        "label": "Chorpara"
+        "parent": "sylhet",
+        "key": "sylhet_shahporan",
+        "label": "Shahporan"
     },
     {
-        "parent": "mymensingh",
-        "key": "mymensingh_town_hall",
-        "label": "Town Hall"
+        "parent": "sylhet",
+        "key": "sylhet_shibgonj",
+        "label": "Shibgonj"
     },
     {
-        "parent": "mymensingh",
-        "key": "mymensingh_muktagacha",
-        "label": "Muktagacha"
+        "parent": "sylhet",
+        "key": "sylhet_south_surma",
+        "label": "South Surma"
     },
     {
-        "parent": "mymensingh",
-        "key": "mymensingh_ishwarganj",
-        "label": "Ishwarganj"
+        "parent": "sylhet",
+        "key": "sylhet_subhani_ghat",
+        "label": "Subhani Ghat"
     },
     {
-        "parent": "mymensingh",
-        "key": "mymensingh_kewatkhali",
-        "label": "Kewatkhali"
+        "parent": "sylhet",
+        "key": "sylhet_subid_bazar",
+        "label": "Subid Bazar"
     },
     {
-        "parent": "mymensingh",
-        "key": "mymensingh_cantonment",
-        "label": "Cantonment"
+        "parent": "sylhet",
+        "key": "sylhet_taltola",
+        "label": "Taltola"
     },
     {
-        "parent": "mymensingh",
-        "key": "mymensingh_phulpur",
-        "label": "Phulpur"
+        "parent": "sylhet",
+        "key": "sylhet_tilagor",
+        "label": "Tilagor"
     },
     {
-        "parent": "mymensingh",
-        "key": "mymensingh_naumahal",
-        "label": "Naumahal"
+        "parent": "sylhet",
+        "key": "sylhet_uposhohor",
+        "label": "Uposhohor"
     },
     {
-        "parent": "mymensingh",
-        "key": "mymensingh_kistopur",
-        "label": "Kistopur"
+        "parent": "sylhet",
+        "key": "sylhet_zakiganj",
+        "label": "Zakiganj"
     },
     {
-        "parent": "mymensingh_division",
-        "key": "mymensingh_division_jamalpur",
-        "label": "Jamalpur"
+        "parent": "sylhet",
+        "key": "sylhet_zinda_bazar",
+        "label": "Zinda Bazar"
     },
     {
-        "parent": "mymensingh_division",
-        "key": "mymensingh_division_sherpur",
-        "label": "Sherpur"
+        "parent": "sylhet_division",
+        "key": "sylhet_division_borolekha",
+        "label": "Borolekha"
     },
     {
-        "parent": "mymensingh_division",
-        "key": "mymensingh_division_netrokona",
-        "label": "Netrokona"
+        "parent": "sylhet_division",
+        "key": "sylhet_division_habiganj",
+        "label": "Habiganj"
+    },
+    {
+        "parent": "sylhet_division",
+        "key": "sylhet_division_maulvi_bazar",
+        "label": "Maulvi Bazar"
+    },
+    {
+        "parent": "sylhet_division",
+        "key": "sylhet_division_sreemangal",
+        "label": "Sreemangal"
+    },
+    {
+        "parent": "sylhet_division",
+        "key": "sylhet_division_sunamganj",
+        "label": "Sunamganj"
     }
 ]
